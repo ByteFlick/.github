@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ByteFlick/.github/blob/main/profile/btye-flick-logo.jpg?raw=true" width="400"></p>
+<p align="center"><img src="https://github.com/ByteFlick/.github/blob/main/profile/btye-flick-logo.png?raw=true" width="400"></p>
 
 ## About ByteFlick
 
