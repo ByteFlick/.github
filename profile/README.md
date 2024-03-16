@@ -2,7 +2,7 @@
 
 ## About ByteFlick
 
-ByteFlick is a pioneering software development partnership dedicated to the advancement of open-source projects for the betterment of the global community. Our mission is to deliver high-quality, innovative solutions that drive positive impact and foster collaboration within the technology ecosystem. By harnessing the power of open-source development, we strive to create a more inclusive and accessible digital landscape for all stakeholders.
+ByteFlick is a software development partnership dedicated to the advancement of open-source projects for the betterment of the global community. Our mission is to deliver high-quality, innovative solutions that drive positive impact and foster collaboration within the technology ecosystem. By harnessing the power of open-source development, we strive to create a more inclusive and accessible digital landscape for all stakeholders.
 
 Checkout our open-source projects:
 
