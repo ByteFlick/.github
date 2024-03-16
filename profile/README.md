@@ -7,5 +7,6 @@ ByteFlick is a software development partnership dedicated to the advancement of 
 Checkout our open-source projects:
 
 - [Migration Partition](https://github.com/orptech-com/laravel-migration-partition): a package that extends Illuminate to enable partitioned table creation within Laravel migrations.
+- [Strict Domain Checker](https://github.com/ByteFlick/laravel-strict-domain): a domain checking utility for Laravel that ensures seamless redirection to a specified domain, optimizing security and user experience within Laravel applications.
 
 Please feel free to contribute to our open-source projects by sending pull requests that add new functionality or resolve issues.
