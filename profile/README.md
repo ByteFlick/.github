@@ -8,5 +8,6 @@ Checkout our open-source projects:
 
 - [Migration Partition](https://github.com/orptech-com/laravel-migration-partition): a package that extends Illuminate to enable partitioned table creation within Laravel migrations.
 - [Strict Domain Checker](https://github.com/ByteFlick/laravel-strict-domain): a domain checking utility for Laravel that ensures seamless redirection to a specified domain, optimizing security and user experience within Laravel applications.
+- [Domain-Based Localization for Laravel](https://github.com/ByteFlick/laravel-domain-localization): a Laravel package facilitating efficient locale determination based on domain names, simplifying multi-language website development.
 
 Please feel free to contribute to our open-source projects by sending pull requests that add new functionality or resolve issues.
